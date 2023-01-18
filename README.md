@@ -1,4 +1,4 @@
-# flutter_sign_in
+## Flutter Login and Logout with Email
 
 A new Flutter project.
 
