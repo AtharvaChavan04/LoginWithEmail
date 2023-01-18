@@ -1,6 +1,6 @@
 ## Flutter Login and Logout with Email
 
-A new Flutter project.
+This Flutter project allows user to create their own email with password.
 
 ## Getting Started
 
